@@ -3,7 +3,7 @@
     private $mysqli,
             $HOST   = 'localhost',
             $USER   = 'root',
-            $PASS   = 'resistance',
+            $PASS   = 'password',
             $DBNAME = 'OOP';
 
     private static $INSTANCE = null;
